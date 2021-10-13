@@ -1,6 +1,4 @@
  <h2>Oi! Eu sou o Gabriel</h2>
- <p>Atualmente estudando Ciências Da Computação na UFRGS. Em paralelo, estudo C#, Html/Css e Javascript.</p>
- 
   <div align ="center">
   <a href="https://github.com/gabemontanet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabemontanet&show_icons=true&theme=dark&include_all_commits&count_private=true" style:"max-width: 100%;"/>
