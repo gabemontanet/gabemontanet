@@ -1,4 +1,4 @@
-# Oi! Eu sou o Gabriel
+ <h2>Oi! Eu sou o Gabriel</h2>
   🌱 Atualmente estudando Ciências Da Computação na UFRGS. Em paralelo, estudo C#, Html/Css e Javascript.
  
   <div align="center">
@@ -13,4 +13,10 @@
     <img align="center" alt ="GabeCss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
     <img align="center" alt ="GabeJavascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   
+  </div>
+  
+  ##
+  <div>
+    <a href="https://www.linkedin.com/in/gabriel-montanet-614931208/" targer="_blank"><img  align= "center" alt="GabeLinkedIn" src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" /></a>
+    
   </div>
