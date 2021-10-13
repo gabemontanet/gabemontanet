@@ -1,12 +1,15 @@
  <h2>Oi! Eu sou o Gabriel</h2>
   🌱 Atualmente estudando Ciências Da Computação na UFRGS. Em paralelo, estudo C#, Html/Css e Javascript.
  
-  <div align="center" style="display: inline_block">
+  <div align="center" style="display: inline-block;">
   <a href="https://github.com/gabemontanet">
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabemontanet&show_icons=true&theme=dark&include_all_commits&count_private=true"/>
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabemontanet&layout=compact&langscount=16&theme=dark"/>
+   
   </div>
-  <div style="display: inline_block"><br>
+  <div style="display: inline-block;"><br>
     <img align="center" alt ="GabeC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt ="GabeC#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
     <img align="center" alt ="GabeHtml" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
